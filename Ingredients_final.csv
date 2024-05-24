@@ -1,0 +1,243 @@
+ing_id,ing_name,kcal,fat,protein,carbs,food_groups_id
+1,Pork,242,14,27,0,7
+2,Lime,30,0.2,0.7,10.6,10
+3,Garlic,149,0.5,6.4,33.1,10
+4,Soy Sauce,53,0.6,4.9,4.9,9
+5,Sugar,387,0,0,100,4
+6,Bell peppers,20,0.2,0.9,4.7,10
+7,Onions,40,0.1,1.1,9.3,10
+8,Seafood mix,90,1,18,0,8
+9,Coconut milk,230,24,2,6,6
+10,Curry paste,100,3,2,13,10
+11,Onion,40,0.1,1.1,9.3,10
+12,Red bell pepper,31,0.3,1,6,10
+13,Fish sauce,35,0.2,5,3.2,9
+14,Lime juice,20,0,0.3,6.9,10
+15,Eggs,155,11,13,1.1,6
+16,Pork sausage meat,300,25,18,1,7
+17,Bread crumbs,395,5.3,13.4,72,9
+18,Flour,364,1,10,76,9
+19,Herbs and spices,20,0.5,0.4,4,1
+20,Shrimp,99,0.3,24,0.2,8
+21,Cucumbers,16,0.1,0.7,3.6,10
+22,Red onions,40,0.1,1.1,9.3,10
+23,Fresh cilantro,23,0.5,2.1,3.7,10
+24,Chili peppers,40,0.2,2,9,10
+25,Salt,0,0,0,0,10
+26,Pepper,0,0,0,0,10
+27,Prawns,106,1.5,20,0.2,8
+28,Mixed salad greens,15,0.2,1.2,2.9,10
+29,Cherry tomatoes,18,0.2,0.9,3.9,10
+30,Carrots,41,0.2,0.9,9.6,10
+31,Peanuts,567,49.2,25.8,16.1,10
+32,Peanut butter,588,50,25,20,6
+33,Honey,304,0,0.3,82,4
+34,Chili flakes,318,17,12,50,10
+35,Cooked rice,130,0.3,2.7,28,9
+36,Chicken breast,165,3.6,31,0,7
+37,Shallots,72,0.1,2.5,16.8,10
+38,Cabbage,25,0.1,1.3,5.8,10
+39,Green beans,31,0.2,1.8,7,10
+40,Soy sauce,53,0.6,4.9,4.9,9
+41,Chili sauce,90,0.5,1,20,9
+42,Oil,884,100,0,0,5
+43,Mixed vegetables,65,0.2,2.2,13,10
+44,Sweet soy sauce,90,0,0.5,22,9
+45,Green onions,32,0.2,1.8,7.3,10
+46,Cake flour,364,1,10,76,9
+47,Granulated sugar,387,0,0,100,4
+48,Baking powder,0,0,0,0,9
+49,Mango puree,60,0.2,0.8,15,10
+50,Whipping cream,340,36,2,3,6
+51,Powdered sugar,389,0,0,100,4
+52,Fresh mango slices,60,0.2,0.8,15,10
+53,Lychees,66,0.4,0.8,16.5,10
+54,Puff pastry,558,38,7.7,45.8,9
+55,Butter,717,81,0.9,0.1,5
+56,Vanilla extract,288,0.1,0.1,12.7,10
+57,Rum,231,0,0,0,12
+58,Lemon juice,22,0.2,0.3,6.9,10
+59,All-purpose flour,364,1,10,76,9
+60,Cocoa powder,228,14,20,54,9
+61,Milk,42,1,3.4,5,6
+62,Melted butter,717,81,0.9,0.1,5
+63,Chocolate chips,546,31,4.6,61,4
+64,Mascarpone cheese,429,42,5,4,6
+65,Heavy cream,340,36,2,3,6
+66,Egg yolks,322,27,16,3.6,6
+67,Chai tea,0,0,0,0,2
+68,Ladyfingers,375,3,8,75,9
+69,Chai tea concentrate,40,0,0,10,2
+70,Ladyfinger biscuits,400,6,8,78,9
+71,Cream cheese,342,34,6,4,6
+72,Jaggery,383,0,0.4,98.5,4
+73,Graham cracker crumbs,407,10,6,74,9
+74,Mussels,86,2.2,11.9,3.7,8
+75,Nduja,480,45,24,1,7
+76,White wine,82,0,0.1,2.6,12
+77,Olive oil,884,100,0,0,5
+78,Parsley,36,0.8,3,6.3,10
+79,Salt and pepper,0,0,0,0,10
+80,Fresh parsley,36,0.8,3,6.3,10
+81,Tomato paste,82,0.5,4.3,19,10
+82,Lasagne noodles,350,1.5,12,71,9
+83,Ground beef,254,18,26,0,7
+84,Ricotta cheese,174,13,11,3,6
+85,Mozzarella cheese,280,17,28,3.1,6
+86,Parmesan cheese,431,29,38,4.1,6
+87,Tomato sauce,29,0.2,1.6,6.7,10
+88,Dried herbs,271,4,10,65,1
+89,Pie crust,527,27,5.5,58,9
+90,Dark chocolate,546,31,4.6,61,4
+91,Canned tomatoes,30,0.2,1.6,7,10
+92,Basil leaves,23,0.6,3.2,2.7,10
+93,Shortcrust pastry,502,26,7,58,9
+94,Unsalted butter,717,81,0.9,0.1,5
+95,Salted peanuts,567,49.2,25.8,16.1,10
+96,Sea salt,0,0,0,0,10
+97,Caramel sauce,320,8,1,60,4
+98,Pork belly,518,53,9,0,7
+99,Peaches,39,0.3,0.9,9.5,10
+100,Red onion,40,0.1,1.1,9.3,10
+101,Cilantro,23,0.5,2.1,3.7,10
+102,Jalapeño,28,0.4,0.9,6.5,10
+103,Brown sugar,380,0,0,98,4
+104,Pistachios,557,44,21,28,10
+105,Tahini,595,53,17,18,10
+106,Water,0,0,0,0,12
+107,Rose water,0,0,0,0,12
+108,Cardamom powder,311,6.7,10.8,68,10
+109,Malted milk powder,350,1.8,7.8,74,9
+110,Espresso,1,0,0.1,0.2,2
+111,Apple cider vinegar,21,0,0,0.9,4
+112,Ground cinnamon,247,1.2,4,80.6,10
+113,Ground nutmeg,525,36.3,5.8,49,10
+114,Nutmeg,525,36,5.8,49,10
+115,Monkfish fillets,76,1.5,14,0,8
+116,Kohlrabi,27,0.1,1.7,6.2,10
+117,Cauliflower,25,0.3,1.9,5,10
+118,Dates,282,0.4,2.5,75,10
+119,Fresh herbs,23,0.6,3.2,2.7,1
+120,Matcha,324,5,30,40,9
+121,Dried porcini mushrooms,296,1,30,63,10
+122,Fresh mushrooms,22,0.3,3.1,3.3,10
+123,Vegetable broth,12,0.4,0.6,1.6,9
+124,Thyme,101,1.7,5.6,24.5,10
+125,Spaghetti,350,1.5,12,71,9
+126,Pipis,148,2,26,5,8
+127,Baguette,289,1.6,9,58,9
+128,Cooked pork,242,14,27,0,7
+129,Pâté,290,25,14,3,7
+130,Mayonnaise,680,75,1,0.6,9
+131,Cucumber,15,0.1,0.7,3.6,10
+132,Pickled carrots and daikon radish,20,0,0.6,4.8,10
+133,Jalapeño peppers,28,0.4,0.9,6.5,10
+134,Pork tenderloin,143,3.5,26,0,7
+135,Spinach,23,0.4,2.9,3.6,10
+136,Feta cheese,264,21,14,4,6
+137,Sun-dried tomatoes,258,3,14,56,10
+138,Beef roast,187,7,29,0,7
+139,Beef broth,17,0.5,2.5,0.1,9
+140,Balsamic vinegar,88,0,0.5,17,9
+141,Leeks,61,0.3,1.5,14,10
+142,Miso paste,198,6,12,26,10
+143,Maple syrup,260,0,0,67,4
+144,Fresh ginger,80,0.8,1.8,17.8,10
+145,Steak,271,19,25,0,7
+146,Sub rolls,265,4.5,9,48,9
+147,Mustard,60,3.3,3.7,5.3,10
+148,Lettuce,15,0.2,1.4,2.9,10
+149,Tomato,18,0.2,0.9,3.9,10
+150,Cheese,380,28,28,1.5,6
+151,French baguette,289,1.6,9,58,9
+152,Sautéed onions,40,0.1,1.1,9.3,10
+153,Ketchup,100,0.1,1.8,25,10
+154,Garlic powder,331,0.7,16.6,73,1
+155,Crawfish,82,1,17,0,8
+156,Cheddar cheese,402,33,25,1.3,6
+157,Smoked paprika,289,13,15,54,1
+158,Turkey,135,5,24,0,7
+159,Lemons,29,0.3,1.1,9.3,10
+160,Corn tortilla,218,2.5,5,45,9
+161,Refried beans,120,2,7,20,10
+162,Oaxaca cheese,300,24,18,2,6
+163,Tomatoes,18,0.2,0.9,3.9,10
+164,Avocado,160,15,2,9,10
+165,Salsa,20,0.1,0.6,4.8,10
+166,Chorizo,455,38,24,1.9,7
+167,Apples,52,0.2,0.3,14,10
+168,Puff Pastry,558,36,6.9,46,9
+169,Lemon Juice,22,0.2,0.3,6.9,10
+170,Halibut,186,2.5,26.7,0,8
+171,Cockles,79,1.1,14.2,3.4,8
+172,Olive Oil,884,100,0,0,5
+173,Chicken,239,14,27.3,0,7
+174,Lemon,29,0.3,1.1,9.3,10
+175,Beef,250,15,26,0,7
+176,Mushrooms,22,0.3,3.1,3.3,10
+177,Sour Cream,214,20,2.9,4.6,6
+178,Rice,130,0.3,2.7,28,9
+179,Saffron,310,5.8,11.4,65.4,10
+180,Bell Peppers,20,0.2,0.9,4.6,10
+181,Kidney Beans,127,0.5,8.7,22.8,10
+182,Black Beans,132,0.5,8.9,23.7,10
+183,Chili Powder,282,14.3,12,49,1
+184,Cumin,375,22.3,17.8,44.2,1
+185,Arborio Rice,130,0.3,2.4,28,9
+186,Vegetable Broth,15,0.1,0.8,2,10
+187,Parmesan Cheese,431,29.2,38.5,4.1,6
+188,Lamb,294,21,25.6,0,7
+189,Dried Apricots,241,0.5,3.4,63.9,10
+190,Chickpeas,164,2.6,8.9,27.4,10
+191,Cinnamon,247,1.2,4,80.6,1
+192,Fettuccine,158,1.5,6.2,30,9
+193,Cream,340,36,2.1,3,6
+194,White Fish,96,1,20,0,8
+195,Tortillas,218,4.7,5.7,36.6,9
+196,Yogurt,59,0.4,10,3.6,6
+197,Ground Beef,250,15,26,0,7
+198,Tomato Sauce,29,0.2,1.4,6.2,10
+199,Eggplant,25,0.2,1,6,10
+200,Mozzarella Cheese,280,17,28,3,6
+201,Basil,23,0.6,3.2,1.9,10
+202,Breadcrumbs,355,5.4,13.8,64.4,9
+203,Butternut Squash,45,0.1,1,12,10
+204,Broccoli,34,0.4,2.8,6.6,10
+205,Ginger,80,0.8,1.8,17.8,10
+206,Sesame Oil,884,100,0,0,5
+207,Powdered Sugar,389,0,0,100,4
+208,Romaine Lettuce,17,0.3,1.2,3.3,10
+209,Chicken Breast,165,3.6,31,0,7
+210,Croutons,407,8.9,10.1,72.4,9
+211,Caesar Dressing,481,45.6,2.4,8.7,10
+212,Lasagna Noodles,157,0.7,5.7,31,9
+213,Ricotta Cheese,174,13,11,3.1,6
+214,Marinara Sauce,61,1.7,1.6,9.3,10
+215,White Wine,82,0,0.1,2.6,12
+216,Red Onion,40,0.1,1.1,9.3,10
+217,Kalamata Olives,210,21,1.8,3,10
+218,Feta Cheese,265,21.3,14.2,4.1,6
+219,Dijon Mustard,66,4.4,4.2,5.3,10
+220,Egg Noodles,138,2.1,4.5,25.3,9
+221,Clams,79,1.1,14.2,3.4,8
+222,Potatoes,77,0.1,2,17.5,10
+223,Celery,14,0.2,0.7,3,10
+224,Heavy Cream,340,36,2.1,3,6
+225,Bacon,541,41.8,37,1.4,7
+226,Guacamole,118,10,1.5,8,10
+227,Pasta,157,0.7,5.7,31,9
+228,Pine Nuts,673,68,13.7,13.1,10
+229,Salmon,206,13,22,0,8
+230,Asparagus,20,0.1,2.2,3.9,10
+231,Black Pepper,251,3.3,10.4,64,1
+232,Bread,265,3.2,9.5,49,9
+233,Sesame Seeds,573,49.7,17,23.5,10
+234,Pumpkin,26,0.1,1,6.5,10
+235,Brown Sugar,377,0,0,98.1,4
+236,Pie Crust,458,29.9,6.5,42.4,9
+237,Enchilada Sauce,60,2.5,1,8,10
+238,Peas,81,0.4,5.4,14.5,10
+239,Green Onions,32,0.3,1.8,7.3,10
+240,Corn,86,1.2,3.2,19,10
+241,Zucchini,17,0.3,1.2,3.1,10
+242,Cherry Tomatoes,18,0.2,0.9,3.9,10

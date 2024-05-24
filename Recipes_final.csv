@@ -1,0 +1,54 @@
+id_rec,name,description,tips,preparation_time,execution_time,portions,fat,kcal,protein,carbs,id_food_group,id_diff,id_national
+1,Thai Pork and Lime Stir Fry,A vibrant stir fry combining the tang of lime with savory pork and fresh vegetables.,Serve with rice for a complete meal.,15,20,4,0,0,0,0,7,2,59
+2,Malaysian Seafood Curry,"A rich and spicy seafood curry made with a mix of prawns, squid, and mussels in coconut milk.",Serve with steamed rice to soak up the flavorful sauce.,20,30,4,0,0,0,0,8,5,64
+3,Scotch Eggs,"Hard-boiled eggs wrapped in sausage meat, coated in breadcrumbs, and deep-fried.",Serve warm with a side of mixed greens or your favorite dipping sauce.,30,20,4,0,0,0,0,7,2,45
+4,Mexican Aguachile,"A spicy and refreshing dish featuring shrimp marinated in lime juice with chili peppers, onions, and cucumbers.",Serve immediately with tortilla chips for dipping.,10,5,4,0,0,0,0,8,1,71
+5,Prawn Thai Salad with Peanut Dressing,"A vibrant Thai salad with fresh prawns, mixed greens, and a spicy peanut dressing.",Toss gently to combine all ingredients evenly before serving.,15,10,4,0,0,0,0,8,2,15
+6,Nasi Goreng,"Indonesian fried rice served with pieces of chicken and shrimp, flavored with chili and soy sauce.",Garnish with fried shallots and serve with a side of pickles and chili sauce.,15,20,4,0,0,0,0,9,2,64
+7,Mango Cream Cake,A delightful sponge cake filled with mango puree and topped with whipped cream and fresh mango slices.,Chill before serving to set the cream.,20,45,8,0,0,0,0,10,5,72
+8,Mini Lychee Tart Tatin,"A delightful twist on the classic tart tatin, featuring caramelized lychees under a layer of puff pastry.",Serve warm with a scoop of vanilla ice cream.,20,40,6,0,0,0,0,10,5,12
+9,Chocolate Pikelets,Soft and fluffy mini pancakes infused with cocoa and studded with chocolate chips.,Serve warm with a dollop of whipped cream or vanilla ice cream.,10,20,4,0,0,0,0,9,2,16
+10,Chai Tiramisu with Vanilla and Rum,"An innovative take on the classic tiramisu, infused with chai tea and enhanced with vanilla and rum flavors.",Allow to set in the fridge for several hours or overnight for best flavor infusion.,30,20,6,0,0,0,0,6,5,16
+11,Jaggery Cheesecake,"A rich and creamy cheesecake made with jaggery instead of sugar, offering a unique caramel-like flavor.",Chill thoroughly before serving to enhance the flavors.,20,60,8,0,0,0,0,6,4,16
+12,Mussels and 'Nduja,"A spicy and flavorful dish featuring mussels cooked with 'Nduja, garlic, shallots, and white wine.",Serve with crusty bread to soak up the flavorful sauce.,15,20,4,0,0,0,0,8,2,25
+13,Cheesy Lasagne,"A rich and hearty lasagne layered with cheese, ground beef, and a savory tomato sauce.",Allow to rest for 10 minutes after baking for easier slicing.,30,45,8,0,0,0,0,6,2,38
+14,Peanut Caramel Tart,A decadent tart featuring a rich caramel layer topped with roasted peanuts and dark chocolate.,Allow the tart to cool completely in the fridge to set the caramel before serving.,30,45,8,0,0,0,0,10,4,31
+15,Roast Pork Belly with Chargrilled Peach Salsa,Succulent roast pork belly paired with a fresh and zesty chargrilled peach salsa.,Ensure the pork belly skin is scored for optimal crispiness.,30,120,6,0,0,0,0,7,4,20
+16,Pistachio and Rose Halva,"A traditional Middle Eastern sweet treat made with tahini and pistachios, flavored with rose water and cardamom.",Store in an airtight container to maintain freshness.,10,30,10,0,0,0,0,10,2,6
+17,Choc Malt Tiramisu,A twist on the classic tiramisu with layers of malted milk and chocolate flavors.,Chill for at least 4 hours before serving to allow the flavors to meld.,20,30,8,0,0,0,0,6,2,6
+18,Honey Vinegar Pie with Spiced Whipped Cream,A unique pie featuring a sweet and tangy filling topped with spiced whipped cream.,Whip the cream just before serving to ensure it stays fluffy.,20,45,8,0,0,0,0,9,2,35
+19,"Monkfish with Kohlrabi, Cauliflower, and Dates","A refined dish featuring tender monkfish paired with a flavorful mix of kohlrabi, cauliflower, and sweet dates.",Serve immediately to enjoy the freshness of the ingredients.,20,30,6,0,0,0,0,8,4,50
+20,Green Tea Ice Cream,Creamy and refreshing ice cream flavored with matcha green tea powder.,Serve immediately after churning for best texture or freeze for later use.,15,30,8,0,0,0,0,6,2,24
+21,Porcini Mushroom Soup,"A rich and earthy soup made with porcini and assorted fresh mushrooms, infused with thyme.",Serve hot with crusty bread for a hearty meal.,20,40,4,0,0,0,0,10,2,24
+22,Spaghetti with Pipis,"A delightful seafood pasta featuring fresh pipis (clams) tossed with spaghetti in a garlicky, tomato-based sauce.",Ensure pipis are fully cleaned to remove any sand before cooking.,15,25,4,0,0,0,0,8,2,16
+23,Banh Mi,"A Vietnamese sandwich that includes a crispy baguette filled with pork, fresh vegetables, and vibrant condiments.",Toast the baguette lightly to add extra crunch.,20,10,4,0,0,0,0,7,2,31
+24,Stuffed Pork Tenderloin,"Succulent pork tenderloin stuffed with feta, spinach, and sun-dried tomatoes, seasoned with fresh herbs.",Ensure the pork is evenly stuffed and secured to maintain shape during cooking.,30,60,6,0,0,0,0,7,4,36
+25,Roast Beef with Caramelized Onion Gravy,Tender roast beef served with a rich and flavorful gravy made from caramelized onions and a hint of balsamic vinegar.,Rest the beef after roasting to ensure it retains its juices when sliced.,20,90,6,0,0,0,0,9,4,5
+26,Miso-Maple Braised Leeks,"Leeks braised in a savory-sweet sauce made from miso and maple syrup, enriched with fresh garlic and ginger.",Serve as a side dish or incorporate into vegetarian main courses.,10,30,4,0,0,0,0,10,2,5
+27,Apple Tarte Tatin,A delicious caramelized apple tart baked with puff pastry.,Serve warm with a scoop of vanilla ice cream.,15,45,8,0,0,0,0,10,1,24
+28,Pan-Fried Halibut with Cockles and Peanuts,A pan-fried halibut dish with cockles and a peanut topping.,Garnish with chopped parsley and a squeeze of lemon.,10,20,4,0,0,0,0,8,2,16
+29,Roast Chicken,"A perfectly roasted chicken with garlic, lemon, and thyme.",Let the chicken rest before carving for best flavor.,15,60,6,0,0,0,0,10,2,1
+30,Beef Stroganoff,"A creamy dish with sautéed beef strips and mushrooms, served over noodles or rice.",Garnish with parsley and serve with mashed potatoes or noodles.,20,30,4,0,0,0,0,7,4,24
+31,Shrimp Paella,"A traditional Spanish rice dish with shrimp, saffron, and mixed vegetables.",Use seafood stock for more flavor and add lemon wedges for garnish.,15,40,6,0,0,0,0,8,5,5
+32,Vegetarian Chili,"A hearty chili made with a mix of beans, tomatoes, and spices.",Top with avocado slices and grated cheese for extra flavor.,15,30,4,0,0,0,0,10,2,29
+33,Mushroom Risotto,"A creamy risotto cooked with mushrooms and vegetable broth, topped with Parmesan cheese.",Stir continuously for a creamy consistency.,15,30,4,0,0,0,0,9,2,31
+34,Lamb Tagine,A slow-cooked Moroccan lamb stew with dried fruits and spices.,Serve with couscous or flatbread.,20,60,6,0,0,0,0,7,4,5
+35,Chicken Alfredo,"A creamy pasta dish with chicken, fettuccine, and Parmesan cheese.",Top with parsley and a pinch of black pepper for extra flavor.,15,20,4,0,0,0,0,7,2,43
+36,Fish Tacos,"Grilled white fish served in tortillas with fresh toppings like cabbage, avocado, and lime.",Squeeze some extra lime juice on top for an extra tangy flavor.,10,20,4,0,0,0,0,8,1,31
+37,Stuffed Bell Peppers,"Bell peppers stuffed with ground beef, rice, and topped with melted cheese.",Use different colored peppers for a more vibrant presentation.,15,40,4,0,0,0,0,10,2,45
+38,Eggplant Parmesan,"Breaded and fried eggplant layered with cheese and tomato sauce, then baked.",Serve with a side of pasta for a complete meal.,15,45,4,0,0,0,0,10,2,31
+39,Butternut Squash Soup,A creamy soup made from roasted butternut squash and vegetable broth.,Garnish with a drizzle of cream and fresh thyme leaves.,15,30,4,0,0,0,0,10,1,5
+40,Beef and Broccoli Stir Fry,A quick stir fry of beef strips and broccoli in a savory soy sauce.,Serve over steamed rice or noodles for a complete meal.,10,20,4,0,0,0,0,7,2,33
+41,Lemon Bars,A tart and sweet dessert made with lemon curd on a buttery crust.,Dust with powdered sugar before serving for extra flavor.,15,45,8,0,0,0,0,10,2,46
+42,Chicken Caesar Salad,"A classic Caesar salad with grilled chicken, Parmesan cheese, and croutons.",Drizzle Caesar dressing just before serving to keep the salad fresh.,10,20,4,0,0,0,0,10,1,41
+43,Vegetarian Lasagna,"Layers of lasagna noodles, ricotta cheese, and spinach topped with mozzarella cheese.",Let the lasagna cool before slicing to ensure neat portions.,15,45,6,0,0,0,0,9,2,5
+44,Shrimp Scampi,"Sautéed shrimp in garlic butter, with lemon and white wine.",Serve with fresh parsley and a wedge of lemon.,10,20,4,0,0,0,0,8,1,7
+45,Beef Tacos,"A savory taco filled with seasoned ground beef, lettuce, and cheese.",Top with salsa and guacamole for extra flavor.,10,15,4,0,0,0,0,7,1,45
+46,Pesto Pasta,"Pasta tossed with a fresh basil pesto sauce, topped with Parmesan cheese.",Garnish with cherry tomatoes for added color and flavor.,10,15,4,0,0,0,0,9,1,31
+47,Salmon with Asparagus,Grilled salmon fillet served with roasted asparagus and lemon wedges.,Drizzle with olive oil before roasting for a crispier texture.,15,20,2,0,0,0,0,8,2,24
+48,Egg Salad Sandwich,A sandwich filled with chopped eggs and mayonnaise served on toasted bread.,Add some lettuce for a fresh crunch.,10,15,4,0,0,0,0,6,1,70
+49,Salmon Teriyaki,Salmon glazed with a sweet and savory teriyaki sauce.,Serve with steamed rice and garnish with sesame seeds.,10,20,4,0,0,0,0,8,2,5
+50,Pumpkin Pie,A spiced pumpkin filling baked in a buttery crust.,Serve with a dollop of whipped cream for extra flavor.,15,45,8,0,0,0,0,10,2,32
+51,Chicken Enchiladas,"Baked tortillas filled with chicken and cheese, topped with enchilada sauce.",Top with fresh cilantro before serving for extra flavor.,15,30,4,0,0,0,0,9,2,55
+52,Egg Fried Rice,"Stir-fried rice with eggs and mixed vegetables, seasoned with soy sauce.",Add a touch of sesame oil at the end for extra aroma.,10,20,4,0,0,0,0,9,1,33
+53,Pasta Primavera,A light pasta dish with fresh vegetables and Parmesan cheese.,Garnish with basil leaves and a drizzle of olive oil before serving.,10,20,4,0,0,0,0,9,1,31

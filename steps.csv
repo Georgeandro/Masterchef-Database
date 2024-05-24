@@ -1,0 +1,406 @@
+steps_id,description,recipe_id,order_no
+1,Chop the pork into thin strips.,1,1
+2,Juice the lime.,1,2
+3,Mince the garlic.,1,3
+4,Mix soy sauce- sugar and lime juice in a bowl.,1,4
+5,Heat a pan and add the pork strips.,1,5
+6,Add garlic and stir-fry until fragrant.,1,6
+7,Add the bell peppers and onions.,1,7
+8,Pour the sauce mixture over the ingredients.,1,8
+9,Cook until the pork is fully cooked and vegetables are tender.,1,9
+10,Serve hot with rice.,1,10
+11,Mince the garlic.,2,1
+12,Slice the onion and red bell pepper.,2,2
+13,Heat a pan and add the curry paste.,2,3
+14,Add the minced garlic and cook until fragrant.,2,4
+15,Add the sliced onion and red bell pepper to the pan.,2,5
+16,Pour in the coconut milk and bring to a simmer.,2,6
+17,Add the seafood mix and cook until done.,2,7
+18,Season with fish sauce and sugar.,2,8
+19,Add lime juice for a fresh tangy flavor.,2,9
+20,Serve hot with steamed rice.,2,10
+21,Boil the eggs for 6-8 minutes then cool in ice water.,3,1
+22,Peel the eggs carefully.,3,2
+23,Season the sausage meat with herbs and spices.,3,3
+24,Wrap the sausage meat around each egg.,3,4
+25,Coat each wrapped egg in flour.,3,5
+26,Dip into beaten egg.,3,6
+27,Roll in bread crumbs.,3,7
+28,Heat oil in a deep pan.,3,8
+29,Fry the Scotch eggs until golden brown.,3,9
+30,Serve with a dipping sauce of your choice.,3,10
+31,Peel and devein the shrimp.,4,1
+32,Slice the cucumbers and red onions thinly.,4,2
+33,Chop the fresh cilantro and chili peppers.,4,3
+34,Combine lime juice salt and pepper in a bowl.,4,4
+35,Add shrimp cucumbers red onions cilantro and chili peppers to the bowl.,4,5
+36,Stir well to coat everything in the lime juice mixture.,4,6
+37,Chill in the refrigerator for 15 minutes before serving.,4,7
+38,Serve cold as a refreshing appetizer.,4,8
+39,Peel and julienne the carrots.,5,1
+40,Slice the cucumbers and cherry tomatoes.,5,2
+41,Chop the fresh cilantro.,5,3
+42,Prepare the prawns by boiling them until cooked.,5,4
+43,Combine fish sauce lime juice peanut butter honey and chili flakes in a bowl to make the dressing.,5,5
+44,In a large bowl mix the salad greens cucumbers tomatoes carrots prawns and peanuts.,5,6
+45,Pour the peanut dressing over the salad.,5,7
+46,Toss everything together until well coated.,5,8
+47,Serve the salad immediately.,5,9
+48,Prepare the garlic onion and shallots by mincing them.,6,1
+49,Scramble the eggs and set aside.,6,2
+50,Heat oil in a large pan.,6,3
+51,Add garlic onion and shallots to the pan and sauté until fragrant.,6,4
+52,Add shrimp prawns and chicken breast to the pan and cook until done.,6,5
+53,Add carrots cabbage green beans and mixed vegetables.,6,6
+54,Add the cooked rice to the pan and stir well.,6,7
+55,Season with soy sauce chili sauce and sweet soy sauce.,6,8
+56,Add the scrambled eggs and mix everything together.,6,9
+57,Garnish with green onions and serve hot.,6,10
+58,Preheat the oven to 350°F (175°C).,7,1
+59,Whisk together the eggs salt oil and sugar.,7,2
+60,Add the cake flour and baking powder and mix until smooth.,7,3
+61,Pour the batter into a greased cake pan.,7,4
+62,Bake for 25-30 minutes or until a toothpick inserted into the center comes out clean.,7,5
+63,Let the cake cool completely.,7,6
+64,Whip the cream and powdered sugar together until stiff peaks form.,7,7
+65,Spread the whipped cream over the cooled cake.,7,8
+66,Top with fresh mango slices.,7,9
+67,Serve the cake chilled.,7,10
+68,Preheat the oven to 400°F (200°C).,8,1
+69,Caramelize the sugar in a pan until golden brown.,8,2
+70,Add the butter and mix well.,8,3
+71,Add the lychees to the caramel mixture.,8,4
+72,Sprinkle vanilla extract rum and lemon juice over the lychees.,8,5
+73,Roll out the puff pastry and cut into circles.,8,6
+74,Place the pastry circles over the lychees.,8,7
+75,Bake for 15-20 minutes or until the pastry is golden brown.,8,8
+76,Let cool slightly before serving.,8,9
+77,Combine flour baking powder cocoa powder and salt in a bowl.,9,1
+78,In a separate bowl whisk together eggs sugar milk and melted butter.,9,2
+79,Add the wet ingredients to the dry ingredients and mix until smooth.,9,3
+80,Stir in the chocolate chips.,9,4
+81,Heat a non-stick pan over medium heat.,9,5
+82,Pour batter into the pan to form small pikelets.,9,6
+83,Cook until bubbles form on the surface then flip and cook until golden brown.,9,7
+84,Serve with your favorite toppings.,9,8
+85,Prepare the chai tea and let it cool.,10,1
+86,Brew a strong chai tea concentrate.,10,2
+87,Mix sugar vanilla extract and rum in a bowl.,10,3
+88,In a separate bowl whisk egg yolks and mascarpone cheese until smooth.,10,4
+89,Whip the heavy cream to stiff peaks.,10,5
+90,Fold the whipped cream into the mascarpone mixture.,10,6
+91,Dip ladyfingers into the chai tea concentrate.,10,7
+92,Layer the dipped ladyfingers in a serving dish.,10,8
+93,Spread the mascarpone mixture over the ladyfingers.,10,9
+94,Repeat layers ending with the mascarpone mixture on top.,10,10
+95,Dust with cocoa powder and refrigerate for at least 4 hours.,10,11
+96,Serve chilled.,10,12
+97,Preheat the oven to 325°F (160°C).,11,1
+98,Crush the graham crackers to make crumbs.,11,2
+99,Mix the crumbs with melted butter and press into the bottom of a springform pan.,11,3
+100,Bake the crust for 10 minutes then let it cool.,11,4
+101,In a bowl beat cream cheese and jaggery until smooth.,11,5
+102,Add eggs one at a time beating well after each addition.,11,6
+103,Stir in flour salt vanilla extract and heavy cream.,11,7
+104,Pour the mixture over the crust.,11,8
+105,Bake for 50-60 minutes until the center is set.,11,9
+106,Let the cheesecake cool completely before refrigerating.,11,10
+107,Serve chilled.,11,11
+108,Heat olive oil in a large pot.,12,1
+109,Add garlic onion and shallots and cook until softened.,12,2
+110,Stir in cherry tomatoes and cook for a few minutes.,12,3
+111,Add nduja and cook until melted.,12,4
+112,Pour in white wine and bring to a simmer.,12,5
+113,Add mussels cover and cook until they open.,12,6
+114,Season with salt and pepper.,12,7
+115,Stir in fresh parsley and tomato paste.,12,8
+116,Serve with crusty bread.,12,9
+117,Preheat the oven to 375°F (190°C).,13,1
+118,Cook the lasagne noodles according to package instructions.,13,2
+119,In a pan heat olive oil and sauté garlic and onion until fragrant.,13,3
+120,Add ground beef and cook until browned.,13,4
+121,Stir in tomato sauce and dried herbs.,13,5
+122,In a bowl mix ricotta cheese mozzarella cheese and parmesan cheese.,13,6
+123,Layer the lasagne in a baking dish starting with the meat sauce.,13,7
+124,Add a layer of noodles then a layer of the cheese mixture.,13,8
+125,Repeat layers ending with a cheese layer on top.,13,9
+126,Bake for 30-40 minutes until bubbly and golden brown.,13,10
+127,Let it cool for a few minutes before serving.,13,11
+128,Prepare the shortcrust pastry and line a tart tin.,14,1
+129,Blind bake the pastry at 180°C for 15 minutes.,14,2
+130,In a saucepan melt the sugar until it caramelizes.,14,3
+131,Stir in the butter cream and vanilla extract.,14,4
+132,Add the salted peanuts and sea salt to the caramel.,14,5
+133,Pour the caramel mixture into the baked pastry shell.,14,6
+134,Melt the dark chocolate and pour it over the caramel layer.,14,7
+135,Chill the tart in the refrigerator until set.,14,8
+136,Serve with a sprinkle of sea salt on top.,14,9
+137,Preheat the oven to 220°C.,15,1
+138,Score the pork belly skin and rub with olive oil and salt.,15,2
+139,Roast the pork belly for 30 minutes then reduce the heat to 160°C and cook for another 2 hours.,15,3
+140,While the pork is roasting prepare the peach salsa.,15,4
+141,Halve and grill the peaches until charred.,15,5
+142,Chop the grilled peaches and mix with lime juice red onion cilantro jalapeño and brown sugar.,15,6
+143,Remove the pork belly from the oven and let it rest.,15,7
+144,Serve the pork belly slices with the peach salsa on the side.,15,8
+145,In a saucepan combine sugar and water and heat until the sugar dissolves.,16,1
+146,Stir in the tahini and mix until smooth.,16,2
+147,Add the rose water and cardamom powder.,16,3
+148,Fold in the pistachios.,16,4
+149,Pour the mixture into a greased pan and let it set.,16,5
+150,Cut into pieces and serve.,16,6
+151,Brew the espresso and let it cool.,17,1
+152,Whisk the egg yolks and sugar until pale and thick.,17,2
+153,Add the mascarpone cheese and mix until smooth.,17,3
+154,Whip the cream to stiff peaks and fold into the mascarpone mixture.,17,4
+155,Combine the cocoa powder and malted milk powder with the espresso.,17,5
+156,Dip the ladyfingers into the espresso mixture.,17,6
+157,Layer the dipped ladyfingers and mascarpone mixture in a serving dish.,17,7
+158,Grate dark chocolate over each layer.,17,8
+159,Chill in the refrigerator for at least 4 hours.,17,9
+160,Dust with cocoa powder before serving.,17,10
+161,Preheat the oven to 350°F (175°C).,18,1
+162,Prepare the pie crust and line a pie dish.,18,2
+163,Whisk together the eggs sugar honey melted butter vanilla extract and apple cider vinegar.,18,3
+164,Pour the mixture into the pie crust.,18,4
+165,Bake for 45-50 minutes until set.,18,5
+166,Let the pie cool completely.,18,6
+167,Whip the cream with ground cinnamon and nutmeg until stiff peaks form.,18,7
+168,Serve the pie with a dollop of spiced whipped cream.,18,8
+169,Preheat the oven to 200°C (390°F).,19,1
+170,Season the monkfish fillets with salt and lemon juice.,19,2
+171,Heat olive oil in a pan and sear the monkfish fillets until golden brown.,19,3
+172,Place the monkfish in a baking dish and bake for 10-15 minutes.,19,4
+173,Meanwhile cut the kohlrabi and cauliflower into small pieces.,19,5
+174,Sauté the kohlrabi and cauliflower in olive oil until tender.,19,6
+175,Add the dates and fresh herbs to the vegetables.,19,7
+176,Serve the monkfish with the sautéed vegetables and dates.,19,8
+177,In a saucepan heat the milk and heavy cream until just simmering.,20,1
+178,In a bowl whisk together the egg yolks and sugar until pale.,20,2
+179,Gradually pour the hot milk mixture into the egg mixture whisking constantly.,20,3
+180,Return the mixture to the saucepan and cook over low heat until thickened.,20,4
+181,Stir in the matcha powder until well combined.,20,5
+182,Pour the mixture into an ice cream maker and churn according to the manufacturer's instructions.,20,6
+183,Freeze the ice cream until firm before serving.,20,7
+184,Soak the dried porcini mushrooms in hot water for 20 minutes.,21,1
+185,In a pot melt the butter and sauté the garlic and onion until translucent.,21,2
+186,Add the fresh mushrooms and cook until softened.,21,3
+187,Drain the porcini mushrooms reserving the soaking liquid and chop them.,21,4
+188,Add the porcini mushrooms to the pot.,21,5
+189,Pour in the vegetable broth and reserved soaking liquid.,21,6
+190,Add the thyme and bring to a simmer.,21,7
+191,Cook for 15-20 minutes then stir in the heavy cream.,21,8
+192,Blend the soup until smooth and serve hot.,21,9
+193,Cook the spaghetti according to the package instructions.,22,1
+194,In a pan heat the olive oil and sauté the garlic and chili flakes.,22,2
+195,Add the cherry tomatoes and cook until they start to soften.,22,3
+196,Pour in the white wine and bring to a simmer.,22,4
+197,Add the pipis and cook until they open.,22,5
+198,Drain the spaghetti and add it to the pan.,22,6
+199,Toss everything together and sprinkle with chopped parsley.,22,7
+200,Serve hot.,22,8
+201,Slice the baguette in half and spread mayonnaise on both sides.,23,1
+202,Layer the cooked pork pâté cucumber pickled carrots and daikon and jalapeño peppers inside the baguette.,23,2
+203,Drizzle with soy sauce and sprinkle with fresh cilantro.,23,3
+204,Serve immediately.,23,4
+205,Preheat the oven to 180°C (350°F).,24,1
+206,Butterfly the pork tenderloin by slicing it lengthwise.,24,2
+207,Season the pork with salt and pepper.,24,3
+208,Sauté the garlic in olive oil until fragrant.,24,4
+209,Add the spinach and cook until wilted.,24,5
+210,Stir in the feta cheese and sun-dried tomatoes.,24,6
+211,Spread the spinach mixture over the pork and roll it up.,24,7
+212,Tie the pork with kitchen twine to secure.,24,8
+213,Roast the pork for 25-30 minutes until cooked through.,24,9
+214,Let the pork rest before slicing and serving.,24,10
+215,Preheat the oven to 180°C (350°F).,25,1
+216,Season the beef roast with salt pepper and fresh herbs.,25,2
+217,In a pan heat olive oil and sear the beef roast on all sides until browned.,25,3
+218,Transfer the beef to a roasting pan and roast for 1.5-2 hours.,25,4
+219,In the same pan melt butter and sauté the onions until caramelized.,25,5
+220,Add brown sugar and balsamic vinegar to the onions.,25,6
+221,Stir in the beef broth and simmer until thickened.,25,7
+222,Serve the roast beef with caramelized onion gravy on top.,25,8
+223,Trim and clean the leeks then cut them into lengths.,26,1
+224,In a pan heat olive oil and sauté the garlic and ginger until fragrant.,26,2
+225,Add the leeks to the pan and cook until they begin to soften.,26,3
+226,Stir in the miso paste vegetable broth and maple syrup.,26,4
+227,Reduce the heat and let the leeks braise for 20-25 minutes until tender.,26,5
+228,Serve the braised leeks warm.,26,6
+229,Preheat the oven to 190°C (375°F).,27,1
+230,In an ovenproof skillet melt the butter and sugar until caramelized.,27,2
+231,Add the apple slices and lemon juice and cook until the apples are tender.,27,3
+232,Arrange the apples neatly in the skillet.,27,4
+233,Place the puff pastry over the apples tucking in the edges.,27,5
+234,Bake for 25-30 minutes until the pastry is golden and puffed.,27,6
+235,Let the tart cool slightly before inverting onto a serving plate.,27,7
+236,Serve warm.,27,8
+237,Season the halibut fillets with salt and pepper.,28,1
+238,In a pan heat olive oil and cook the halibut until golden and cooked through.,28,2
+239,In another pan sauté the garlic and peanuts until fragrant.,28,3
+240,Add the cockles and cook until they open.,28,4
+241,Serve the halibut topped with the cockles and peanuts.,28,5
+242,Preheat the oven to 200°C (400°F).,29,1
+243,Season the chicken with salt pepper and thyme.,29,2
+244,In a roasting pan place the chicken and surround it with bell peppers.,29,3
+245,Rub the chicken with butter and saffron.,29,4
+246,Roast the chicken for 1.5 hours basting occasionally.,29,5
+247,Let the chicken rest before carving and serving.,29,6
+248,In a pan melt butter and sauté the onions until translucent.,30,1
+249,Add the beef strips and cook until browned.,30,2
+250,Stir in the mushrooms and cook until softened.,30,3
+251,Add mustard and beef broth and let it simmer.,30,4
+252,Stir in the sour cream and cook until the sauce is thickened.,30,5
+253,Serve the beef stroganoff over noodles or rice.,30,6
+254,Heat olive oil in a large paella pan.,31,1
+255,Add the shrimp and cook until pink then set aside.,31,2
+256,Sauté the garlic tomatoes and cumin in the pan.,31,3
+257,Stir in the rice and saffron and cook for a minute.,31,4
+258,Add the broth and bring to a simmer.,31,5
+259,Cook the rice until almost tender then add the shrimp back to the pan.,31,6
+260,Sprinkle with grated Parmesan cheese and let it melt.,31,7
+261,Serve the paella hot.,31,8
+262,In a pot heat olive oil over medium heat.,32,1
+263,Add the onions and sauté until translucent.,32,2
+264,Stir in the chili powder and cinnamon.,32,3
+265,Add the tomatoes and cook until they soften.,32,4
+266,Add the kidney beans and black beans.,32,5
+267,Simmer for 20-30 minutes until the flavors meld together.,32,6
+268,Serve hot with your favorite toppings.,32,7
+269,In a pot heat the vegetable broth and keep it warm.,33,1
+270,In a pan melt butter and sauté the onions until translucent.,33,2
+271,Add the mushrooms and cook until they release their moisture.,33,3
+272,Stir in the Arborio rice and cook for 1-2 minutes.,33,4
+273,Add a ladle of warm broth to the rice and stir until absorbed.,33,5
+274,Continue adding broth one ladle at a time stirring constantly.,33,6
+275,When the rice is creamy and cooked through stir in the Parmesan cheese.,33,7
+276,Serve hot.,33,8
+277,Heat olive oil in a tagine or heavy pot.,34,1
+278,Add the onions and sauté until translucent.,34,2
+279,Stir in the chili powder and cumin.,34,3
+280,Add the lamb and cook until browned.,34,4
+281,Add the tomatoes and dried apricots.,34,5
+282,Cover and simmer for 1.5-2 hours until the lamb is tender.,34,6
+283,Serve hot with couscous or bread.,34,7
+284,In a large pot cook the fettuccine according to package instructions.,35,1
+285,In a pan melt the butter and sauté the garlic until fragrant.,35,2
+286,Add the chicken and cook until browned.,35,3
+287,Stir in the bell peppers and cook until tender.,35,4
+288,Add the cooked fettuccine and toss to combine.,35,5
+289,Serve hot with Alfredo sauce.,35,6
+290,In a bowl mix yogurt with lime juice and zest.,36,1
+291,Season the fish with salt and pepper.,36,2
+292,Grill the fish until cooked through.,36,3
+293,Warm the tortillas in a dry pan.,36,4
+294,Assemble the tacos with cabbage cilantro avocado and grilled fish.,36,5
+295,Drizzle with the yogurt sauce.,36,6
+296,Serve immediately.,36,7
+297,Preheat the oven to 180°C (350°F).,37,1
+298,In a pan heat olive oil and sauté the garlic and onions until translucent.,37,2
+299,Add the ground beef and cook until browned.,37,3
+300,Stir in the cooked rice cheese and tomato sauce.,37,4
+301,Stuff the bell peppers with the beef mixture.,37,5
+302,Place the stuffed peppers in a baking dish.,37,6
+303,Bake for 25-30 minutes until the peppers are tender.,37,7
+304,Serve hot.,37,8
+305,Preheat the oven to 180°C (350°F).,38,1
+306,Slice the eggplant into rounds.,38,2
+307,Coat the eggplant slices in breadcrumbs.,38,3
+308,Fry the eggplant slices until golden brown.,38,4
+309,In a baking dish layer tomato sauce fried eggplant mozzarella cheese and Parmesan cheese.,38,5
+310,Repeat the layers ending with cheese on top.,38,6
+311,Bake for 25-30 minutes until the cheese is melted and bubbly.,38,7
+312,Serve hot.,38,8
+313,Peel and chop the butternut squash into cubes.,39,1
+314,In a pot heat olive oil and sauté the garlic and onions until translucent.,39,2
+315,Add the butternut squash and cook for a few minutes.,39,3
+316,Pour in the vegetable broth and bring to a simmer.,39,4
+317,Add thyme and cook until the squash is tender.,39,5
+318,Blend the soup until smooth.,39,6
+319,Stir in the milk and cream.,39,7
+320,Season with salt and pepper to taste.,39,8
+321,Serve hot.,39,9
+322,Slice the beef into thin strips.,40,1
+323,In a bowl mix soy sauce garlic and ginger.,40,2
+324,Marinate the beef in the soy sauce mixture for 15 minutes.,40,3
+325,In a pan heat sesame oil and cook the beef until browned.,40,4
+326,Add the broccoli and cook until tender.,40,5
+327,Serve hot.,40,6
+328,Preheat the oven to 180°C (350°F).,41,1
+329,In a bowl mix flour sugar and butter to form a dough.,41,2
+330,Press the dough into a baking dish and bake for 15 minutes.,41,3
+331,In another bowl whisk together eggs sugar lemon juice and lemon zest.,41,4
+332,Pour the lemon mixture over the baked crust.,41,5
+333,Bake for an additional 20 minutes until set.,41,6
+334,Let the lemon bars cool completely.,41,7
+335,Dust with powdered sugar before serving.,41,8
+336,Grill the chicken breast until cooked through then slice.,42,1
+337,Chop the romaine lettuce into bite-sized pieces.,42,2
+338,In a large bowl combine lettuce chicken croutons and Caesar dressing.,42,3
+339,Toss until everything is well coated.,42,4
+340,Sprinkle with Parmesan cheese.,42,5
+341,Serve immediately.,42,6
+342,Preheat the oven to 180°C (350°F).,43,1
+343,In a pan sauté the spinach until wilted.,43,2
+344,In a bowl mix ricotta cheese and black beans.,43,3
+345,In a baking dish layer lasagna noodles marinara sauce sautéed spinach and ricotta mixture.,43,4
+346,Repeat the layers ending with marinara sauce on top.,43,5
+347,Bake for 30-35 minutes until bubbly and golden.,43,6
+348,Let the lasagna cool for a few minutes before serving.,43,7
+349,Serve hot.,43,8
+350,In a pan melt butter and sauté garlic until fragrant.,44,1
+351,Add the shrimp and cook until pink.,44,2
+352,Stir in the white wine and lemon juice.,44,3
+353,Cook until the sauce is slightly reduced.,44,4
+354,Stir in chopped parsley.,44,5
+355,Serve hot.,44,6
+356,In a pan cook the ground beef until browned.,45,1
+357,Warm the tortillas in a dry pan.,45,2
+358,Assemble the tacos with lettuce cheese salsa and cooked ground beef.,45,3
+359,Add guacamole on top.,45,4
+360,Serve immediately.,45,5
+361,Cook the pasta according to package instructions.,46,1
+362,In a blender combine basil garlic Parmesan cheese pine nuts and olive oil.,46,2
+363,Blend until smooth to make the pesto.,46,3
+364,Drain the cooked pasta and toss with the pesto.,46,4
+365,Serve immediately.,46,5
+366,Preheat the oven to 200°C (400°F).,47,1
+367,Place the salmon fillets and asparagus on a baking sheet.,47,2
+368,Drizzle with olive oil and season with black pepper.,47,3
+369,Bake for 15-20 minutes until the salmon is cooked through.,47,4
+370,Serve with lemon wedges.,47,5
+371,Boil the eggs until hard-boiled then chop them.,48,1
+372,In a bowl mix the chopped eggs with mayonnaise and mustard.,48,2
+373,Spread the egg salad onto slices of bread.,48,3
+374,Add lettuce leaves to the sandwiches.,48,4
+375,Serve immediately.,48,5
+376,In a bowl mix soy sauce honey and white wine.,49,1
+377,Marinate the salmon fillets in the sauce for 15 minutes.,49,2
+378,In a pan heat sesame oil and cook the salmon until browned.,49,3
+379,Add the remaining marinade to the pan and cook until the sauce is thickened.,49,4
+380,Serve the salmon topped with sesame seeds.,49,5
+381,Preheat the oven to 180°C (350°F).,50,1
+382,In a bowl mix pumpkin puree eggs cream brown sugar and cinnamon.,50,2
+383,Pour the mixture into the pie crust.,50,3
+384,Bake for 45-50 minutes until set.,50,4
+385,Let the pie cool before serving.,50,5
+386,Preheat the oven to 180°C (350°F).,51,1
+387,In a pan cook the onions until translucent.,51,2
+388,Add the shredded chicken and cook until heated through.,51,3
+389,Fill the tortillas with the chicken mixture and roll them up.,51,4
+390,Place the filled tortillas in a baking dish.,51,5
+391,Pour the enchilada sauce over the tortillas.,51,6
+392,Top with cheese and bake for 20-25 minutes until bubbly.,51,7
+393,Serve with chopped cilantro.,51,8
+394,In a pan scramble the eggs and set aside.,52,1
+395,In the same pan sauté the carrots and peas until tender.,52,2
+396,Add the cooked rice and soy sauce and stir well.,52,3
+397,Stir in the scrambled eggs.,52,4
+398,Top with chopped green onions before serving.,52,5
+399,Cook the pasta according to package instructions.,53,1
+400,In a pan sauté garlic in olive oil until fragrant.,53,2
+401,Add the zucchini and cherry tomatoes and cook until tender.,53,3
+402,Stir in the cooked pasta.,53,4
+403,Add the yogurt and Parmesan cheese and toss well.,53,5
+404,Top with fresh basil leaves.,53,6
+405,Serve immediately.,53,7
