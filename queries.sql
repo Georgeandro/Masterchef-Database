@@ -52,7 +52,7 @@ JOIN
 WHERE 
     national_cuisine.name LIKE '%United States%'
     AND er.year = 2
-    chefs.surname;
+    ORDER BY chefs.surname;
 
 3.3)
 
@@ -303,8 +303,46 @@ Limit  (cost=88.57..88.58 rows=3 width=244) (actual time=1.030..1.034 rows=3 loo
 Planning Time: 0.723 ms
 Execution Time: 1.091 ms
 
+--query
+  GNU nano 7.2                              script.sql                                        
+EXPLAIN ANALYZE
+WITH RecipeTags AS (
+    SELECT 
+	tr1.id_rec,
+        t1.name AS tag1,
+        t2.name AS tag2
+    FROM 
+	tags_rec tr1
+    JOIN 
+	tags t1 ON tr1.id_tags = t1.id_tags
+    JOIN 
+	tags_rec tr2 ON tr1.id_rec = tr2.id_rec
+    JOIN 
+	tags t2 ON tr2.id_tags = t2.id_tags
+    WHERE 
+        t1.id_tags < t2.id_tags
+),
+TagPairsCount AS (
+    SELECT 
+	rt.tag1,
+        rt.tag2,
+        COUNT(*) AS pair_count
+    FROM 
+	RecipeTags rt
+    GROUP BY 
+        rt.tag1, rt.tag2
+)
+SELECT 
+    tpc.tag1,
+    tpc.tag2,
+    tpc.pair_count
+FROM 
+    TagPairsCount tpc
+ORDER BY 
+    tpc.pair_count DESC
+LIMIT 3;
 
-3.7)
+
 --3.7 show all chefs and appearances
 WITH ChefAppearances AS (
     SELECT 
@@ -821,7 +859,19 @@ ORDER BY
     ee.avg_total_experience ASC
 LIMIT 1;
 
---3.14) afou valw to food groups
+--3.14) 
+SELECT 
+    tc.name AS theme_name,
+    COUNT(rt.id_theme) AS appearance_count
+FROM 
+    recipes_theme rt
+JOIN 
+    theme_chapters tc ON rt.id_theme = tc.theme_chapters_id
+GROUP BY 
+    tc.name
+ORDER BY 
+    appearance_count DESC
+LIMIT 1;
 
 
 --3.15)

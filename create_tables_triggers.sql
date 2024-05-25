@@ -297,3 +297,72 @@ AFTER INSERT OR UPDATE ON ingredient_recipes
 FOR EACH ROW 
 EXECUTE FUNCTION recipes_nutrition_insert_trigger();
 
+
+
+--views
+-- Create view for each recipe and its ingredients in a list
+CREATE VIEW recipe_ingredients AS
+SELECT 
+    r.name AS recipe_name,
+    array_agg(i.ing_name) AS ingredients
+FROM 
+    recipes r
+JOIN 
+    ingredient_recipes ir ON r.id_rec = ir.id_rec
+JOIN 
+    ingredients i ON ir.id_ing = i.ing_id
+GROUP BY 
+    r.name;
+   
+   
+-- Create view for the total points per season per chef
+CREATE VIEW chef_total_points_per_season AS
+WITH season_episodes AS (
+    SELECT 1 AS season, 1 AS start_ep, 10 AS end_ep UNION ALL
+    SELECT 2 AS season, 11 AS start_ep, 20 AS end_ep UNION ALL
+    SELECT 3 AS season, 21 AS start_ep, 30 AS end_ep UNION ALL
+    SELECT 4 AS season, 31 AS start_ep, 40 AS end_ep UNION ALL
+    SELECT 5 AS season, 41 AS start_ep, 50 AS end_ep
+),
+season_scores AS (
+    SELECT 
+        s.chef_id,
+        se.season,
+        SUM(s.score) AS total_score
+    FROM 
+        score s
+    JOIN 
+        chefs_episodes ce ON s.chef_id = ce.chef_id AND s.chef_no_ep = ce.chef_no_ep
+    JOIN 
+        season_episodes se ON s.chef_no_ep BETWEEN se.start_ep AND se.end_ep
+    GROUP BY 
+        s.chef_id, se.season
+)
+SELECT 
+    c.chef_id,
+    c.chef_name,
+    c.surname,
+    ss.season,
+    ss.total_score
+FROM 
+    chefs c
+JOIN 
+    season_scores ss ON c.chef_id = ss.chef_id
+order by season,total_score;
+
+--Indexes
+--tags_rec index
+CREATE INDEX idx_tags_rec_id_rec ON tags_rec ( id_rec );
+CREATE INDEX idx_tags_rec_id_tags ON tags_rec ( id_tags );
+--chef_episode index
+CREATE INDEX idx_chefs_episodes_no_ep ON chefs_episodes ( chef_no_ep );
+--recipes_equipment index
+CREATE INDEX idx_recipes_has_equipment_recipes_id ON recipes_has_equipment ( recipes_id );
+--ingredient index to search fast by name
+CREATE INDEX idx_ingredients_name ON ingredients (ing_name);
+--index in score because there are 1500 tuples
+CREATE INDEX idx_score_chef_id ON score (chef_id);
+CREATE INDEX idx_score_chef_no_ep ON score (chef_no_ep);
+CREATE INDEX idx_score_judge_id ON score (judge_id);
+CREATE INDEX idx_score_judge_no_ep ON score (judge_no_ep);
+
